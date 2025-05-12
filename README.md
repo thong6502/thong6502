@@ -9,7 +9,7 @@
 </a>    
 <a href="https://github.com/thong6502/quick_draw">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thong6502&repo=quick_draw&theme=shadow_green" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thong6502&repo=quick_draw&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/thong6502/send_zalo">
