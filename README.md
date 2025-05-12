@@ -1,19 +1,19 @@
-## Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+## 📫 How to reach me: 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thong6502&show_icons=true&theme=radical)
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thong6502&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/thong6502/ext_detect_deepfake">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thong6502&repo=ext_detect_deepfake&theme=radical" />
+</a>    
+<a href="https://github.com/thong6502/quick_draw">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thong6502&quick_draw&theme=merko" />
+</a>
 
-<!--
-**thong6502/thong6502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/thong6502/send_zalo">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thong6502&repo=send_zalo&theme=gruvbox" />
+</a>    
+  
