@@ -18,3 +18,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thong6502&repo=send_zalo&theme=gruvbox" />
 </a>    
   
+<a href="https://github.com/thong6502/send_zalo">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thong6502&repo=styleRAG&theme=gruvbox" />
+</a>  
