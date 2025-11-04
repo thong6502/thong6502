@@ -1,7 +1,5 @@
 # 👋 Welcome to My Page!
-
-Hi there! I'm **Lê Văn Thông** — an **AI Engineer** passionate about **Machine Learning**, **Deep Learning**, and building **end-to-end MLOps pipelines**.  
-I enjoy turning data into intelligent systems that solve real-world problems. 🚀  
+Hi there! I'm **Lê Văn Thông** — an **AI Engineer**. I enjoy turning data into intelligent systems that solve real-world problems. 🚀  
 
 ---
 
