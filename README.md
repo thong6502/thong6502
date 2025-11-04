@@ -1,13 +1,13 @@
 # 👋 Welcome to My Page!
 Hi there! I'm **Lê Văn Thông**
 
-<!-- <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a> -->
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</div>
----
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <a href="https://github.com/mrpine65/e2e_ml">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpine65&repo=e2e_ml&theme=radical" />
