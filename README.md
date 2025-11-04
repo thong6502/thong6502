@@ -1,6 +1,10 @@
 # 👋 Welcome to My Page!
 Hi there! I'm **Lê Văn Thông** — an **AI Engineer**. I enjoy turning data into intelligent systems that solve real-world problems. 🚀  
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 ---
 
 <a href="https://github.com/mrpine65/e2e_ml">
