@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thong6502.thong6502">
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thong6502.thong6502"> -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -20,13 +20,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thong6502&repo=quick_draw&theme=tokyonight" />
 </a>
 
----
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
 
-## 📫 How to Reach Me
-📍 Hanoi, Vietnam  
-✉️ **lvthong652002@gmail.com**  
-🌐 [**GitHub: thong6502**](https://github.com/thong6502)  
-
----
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 ⭐ *“Build, train, deploy — repeat.”*  
