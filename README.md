@@ -11,24 +11,36 @@
 
 <!-- Projects Section -->
 <h2 align="center">🧩 Featured Projects</h2>
+<h2 align="center">🧩 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/mrpine65/e2e_ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpine65&repo=e2e_ml&theme=radical" />
-  </a>
-  <a href="https://github.com/thong6502/ext_detect_deepfake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thong6502&repo=ext_detect_deepfake&theme=radical" />
-  </a>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-<p align="center">
-  <a href="https://github.com/thong6502/quick_draw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thong6502&repo=quick_draw&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/thong6502/ai_meeting_assitance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thong6502&repo=ai_meeting_assitance&theme=tokyonight" />
-  </a>
-</p>
+  <div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;width:45%;min-width:280px;padding:15px;text-align:left;">
+    <h3><a href="https://github.com/mrpine65/e2e_ml" style="color:#ffcc00;text-decoration:none;">e2e_ml</a></h3>
+    <p style="color:#c9d1d9;">End-to-end Machine Learning Operations (MLOps) lifecycle for obesity classification.</p>
+    <p style="font-size:13px;color:#8b949e;">🟠 HTML</p>
+  </div>
+
+  <div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;width:45%;min-width:280px;padding:15px;text-align:left;">
+    <h3><a href="https://github.com/thong6502/ext_detect_deepfake" style="color:#f470a1;text-decoration:none;">ext_detect_deepfake</a></h3>
+    <p style="color:#c9d1d9;">Browser Extension for Deepfake Video Detection using PyTorch Xception model.</p>
+    <p style="font-size:13px;color:#8b949e;">🔵 Python</p>
+  </div>
+
+  <div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;width:45%;min-width:280px;padding:15px;text-align:left;">
+    <h3><a href="https://github.com/thong6502/quick_draw" style="color:#58a6ff;text-decoration:none;">quick_draw</a></h3>
+    <p style="color:#c9d1d9;">A simple drawing recognition project inspired by Google’s Quick, Draw! dataset.</p>
+    <p style="font-size:13px;color:#8b949e;">🟣 Python</p>
+  </div>
+
+  <div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;width:45%;min-width:280px;padding:15px;text-align:left;">
+    <h3><a href="https://github.com/thong6502/ai_meeting_assitance" style="color:#9b7df5;text-decoration:none;">ai_meeting_assitance</a></h3>
+    <p style="color:#c9d1d9;">AI Meeting Assistant for transcribing and summarizing meeting audio with advanced AI.</p>
+    <p style="font-size:13px;color:#8b949e;">🟠 Jupyter Notebook</p>
+  </div>
+
+</div>
+
 
 ---
 
