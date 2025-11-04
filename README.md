@@ -1,7 +1,4 @@
-# 👋 Welcome to My Page!
-Hi there! I'm **Lê Văn Thông**
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thong6502.thong6502">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
